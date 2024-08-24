@@ -1,0 +1,4 @@
+Employee ID: 1, First Name: Eddie, Last Name: Bauer, eMail: ebauer@teambank.com, Employee Type: fulltime | Salary/Hourly Wages: $45667
+Employee ID: 2, First Name: Peter, Last Name: Rabbit, eMail: prabbit@teambank.com, Employee Type: fulltime | Salary/Hourly Wages: $34567
+Employee ID: 3, First Name: Amy, Last Name: Winehouser, eMail: awine@teambank.com, Employee Type: fulltime | Salary/Hourly Wages: $67890
+Employee ID: 4, First Name: Bart, Last Name: Simpson, eMail: bsimpson@teambank.com, Employee Type: parttime | Salary/Hourly Wages: $45
